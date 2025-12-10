@@ -1,3 +1,8 @@
 spring:
   application:
     name: 'mebroker-config-dev'
+
+test:
+  message: "Hello from DEV config"
+server:
+  port: 9001
